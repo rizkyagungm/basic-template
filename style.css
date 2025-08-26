@@ -1,0 +1,14 @@
+html {
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 0;
+  font-size: 62.5%;
+}
+
+body {
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 4.8rem;
+}
